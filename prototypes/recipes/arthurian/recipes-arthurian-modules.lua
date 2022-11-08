@@ -122,7 +122,7 @@ RECIPE {
     enabled = false,
     energy_required = 30,
     ingredients = {
-        {type = 'item', name = 'arthurian', amount = 2},
+        {type = 'item', name = 'arthurian-mk02', amount = 2},
         {type = 'item', name = 'alien-sample-03', amount = 1},
         {type = 'item', name = 'caged-ulric', amount = 1},
         {type = 'item', name = 'bedding', amount = 3},
@@ -233,7 +233,7 @@ RECIPE {
     enabled = false,
     energy_required = 30,
     ingredients = {
-        {type = 'item', name = 'arthurian', amount = 2},
+        {type = 'item', name = 'arthurian-mk03', amount = 2},
         {type = 'item', name = 'zinc-finger-proteins', amount = 1},
         {type = 'item', name = 'caged-ulric', amount = 1},
         {type = 'item', name = 'bedding', amount = 3},
